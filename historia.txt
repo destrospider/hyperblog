@@ -4,3 +4,5 @@ Vamos a realizar una prueba de cambios en el archivo
 Cambios de vida 
 
 cambio de carro
+
+Guardamos la version  con efectos de prueba checkout
