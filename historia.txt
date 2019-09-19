@@ -6,3 +6,5 @@ Cambios de vida
 cambio de carro
 
 Guardamos la version  con efectos de prueba checkout
+
+Prueba de quitar un archivo en caso de que no este listo de lanzarse
